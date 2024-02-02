@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+/*  your css code here. If applicable */
+/*  */
+body{
+	text-align:center;
+}
+.card{
+	width:200px;
+	height:200px;
+}
+.container>div{
+	margin:10px;
+}
